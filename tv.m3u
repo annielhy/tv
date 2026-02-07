@@ -1,15 +1,15 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="RTHK31" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜合",RTHK31[官網]
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="RTHK31" tvg-id="368550" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜合",RTHK31[官網]
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-name="RTHK31" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜合",RTHK31[官網]
+#EXTINF:-1 tvg-name="RTHK31" tvg-id="368550" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜合",RTHK31[官網]
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="RTHK32" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="新聞",RTHK32[官網]
+#EXTINF:-1 tvg-name="RTHK32" tvg-id="368551" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="新聞",RTHK32[官網]
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK33(CCTV1)" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="新聞",RTHK33(CCTV1)[官網]
+#EXTINF:-1 tvg-name="RTHK33(CCTV1)" tvg-id="368552" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="新聞",RTHK33(CCTV1)[官網]
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK34(CGTNDocumentary)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="新聞",RTHK34(CGTN_Documentary)[官網]
+#EXTINF:-1 tvg-name="RTHK34(CGTNDocumentary)" tvg-id="368553" tvg-country="香港" tvg-language="英文" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="新聞",RTHK34(CGTN_Documentary)[官網]
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8[官網]
-#EXTINF:-1 tvg-name="RTHK35(CGTN)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="新聞",RTHK35(CGTN)[官網]
+#EXTINF:-1 tvg-name="RTHK35(CGTN)" tvg-id="368554" tvg-country="香港" tvg-language="英文" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="新聞",RTHK35(CGTN)[官網]
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="HOY國際財經台(HOY76)[官網]" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOY 國際財經台(HOY76)[官網]
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -27,7 +27,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜合",TVB Plus(TVB82)
 http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-name="無線新聞台(TVB83)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無線新聞台(TVB83)
+#EXTINF:-1 tvg-name="無線新聞台(TVB83)" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無線新聞台(TVB83)
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="無線新聞台(TVB83)" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無線新聞台(TVB83)
 https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
